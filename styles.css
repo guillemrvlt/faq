@@ -1,0 +1,33 @@
+h1{
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 36 px;
+}
+
+h2{
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 24 px;
+}
+
+p{
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 16 px;
+}
+
+li{
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-size: 16 px;
+}
+
+a{
+    color: #4E80EE;
+}
+
+.title{
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+.text{
+    background-color: #D2D5DA;
+    border-top: 2px;
+}
