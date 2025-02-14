@@ -16,6 +16,7 @@ p{
 li{
     font-family: Inter, Arial, Helvetica, sans-serif;
     font-size: 16 px;
+    text-align: left;
 }
 
 a{
@@ -25,9 +26,20 @@ a{
 .title{
     background-color: #FFFFFF;
     text-align: center;
+    width: 100%;
 }
 
-.text{
-    background-color: #D2D5DA;
-    border-top: 2px;
+body .text{
+    background-color: #F8FAFC;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+hr{
+    border: 1px solid #D2D5DA;
+    width: 80%;
+    margin: 20px 0; 
 }
